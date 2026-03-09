@@ -16,7 +16,10 @@
       "Bash(hugo config | grep -A2 -B2 \"baseURL\")",
       "Bash(hugo --minify --baseURL=\"http://localhost:1313/\" 2>&1 | head -20)",
       "Bash(hugo config --logLevel error | head -100)",
-      "Bash(git rm -r --cached public/)"
+      "Bash(git rm -r --cached public/)",
+      "Bash(git stash pop)",
+      "Bash(git add .claude/settings.local.json)",
+      "Bash(git add -u)"
     ]
   }
 }
