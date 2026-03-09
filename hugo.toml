@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/tusiqi1/blog'
+baseURL = 'https://tusiqi1.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
