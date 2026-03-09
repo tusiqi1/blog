@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo version)",
+      "Bash(git init)",
+      "Bash(brew --version)",
+      "Bash(brew install hugo)",
+      "Bash(hugo new site . --force)",
+      "Bash(git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1)",
+      "Bash(git submodule add --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod)",
+      "Bash(hugo new about.md)",
+      "Bash(hugo new resume.md)",
+      "Bash(git submodule update --init --recursive)",
+      "Bash(hugo --minify)"
+    ]
+  }
+}
