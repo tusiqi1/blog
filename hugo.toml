@@ -41,3 +41,5 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  taxonomyCloud = true
+  taxonomyCloudTitle = true
